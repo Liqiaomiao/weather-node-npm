@@ -1,18 +1,26 @@
 {
-  "name": "weather-test-lisa",
+  "name": "weather-node-npm",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liqiaomiao/weather-node-npm.git"
+  },
   "bin": {
     "weather": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "\"\"\u001b[Dliqiaomiao\u001b[\",",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "\"\"\u001b[Dtest for npm\"\u001b[Dsend\"",
+  "bugs": {
+    "url": "https://github.com/Liqiaomiao/weather-node-npm/issues"
+  },
+  "homepage": "https://github.com/Liqiaomiao/weather-node-npm#readme"
 }
