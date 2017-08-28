@@ -1,3 +1,7 @@
 # weather-node-npm
-#使用,比如天津
-> $ weather tianjin
+#####简单的天气预报查询
+使用方法(下载后命令行执行weather 城市名)
+```
+$ npm i -D weather-node-npm
+$ weather tianjin
+```

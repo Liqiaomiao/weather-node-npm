@@ -1,4 +1,4 @@
-#!/user/bin/env node
+#! /usr/bin/env node
 //如果node不在根目录
 //which node 找到node所在路径 
 //#!/node路径/bin/env node

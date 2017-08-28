@@ -1,6 +1,6 @@
 {
   "name": "weather-node-npm",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -12,13 +12,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "\"\"\u001b[Dliqiaomiao\u001b[\",",
+  "author": "liqiaomiao",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.16.2"
   },
   "devDependencies": {},
-  "description": "\"\"\u001b[Dtest for npm\"\u001b[Dsend\"",
+  "description": "天气预报查询",
   "bugs": {
     "url": "https://github.com/Liqiaomiao/weather-node-npm/issues"
   },
